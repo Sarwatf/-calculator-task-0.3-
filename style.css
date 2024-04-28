@@ -1,0 +1,39 @@
+form{
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+    font-size: xx-large;
+
+}
+div.calculator{
+    border: 1px solid rgb(89, 88, 88);
+    height: 600px;
+    width: 550px;
+    border-radius: 20px;
+    background-color: rgb(176, 236, 238)
+    
+}
+input{
+    width: 120px; 
+    height: 90px; 
+    background-color: rgb(238, 228, 228); 
+    color: rgb(5, 5, 5);  
+    border: 3px solid rgb(190, 186, 186);  
+        border-radius : 100px;  
+        box-shadow: 3px  3px rgb(240, 239, 234);
+        padding:  6px;  
+        margin: 2px;  
+        font-size: 20px; 
+    }
+
+     #display{
+        width: 520px;
+        border-radius: 10px;
+        border: 1px solid black;
+        margin: 7px;
+     }
+      #clear {
+        background-color: grey;
+        width: 250px;
+        
+     }
